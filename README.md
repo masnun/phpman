@@ -1,10 +1,18 @@
-# PHPMan - Google as your PHP Manual
+# PHPMan
 
 PHPMan is a simple command line tool that uses Google's "Feeling Lucky" feature to quickly PHP related topics. 
 
 ### How to Use? 
 
 * Download `phpman.phar` 
-* Make it executable
+* Make it executable - `chmod a+x phpman.phar`
 * Run it - `./phpman.phar array shift`
+* Optionally, you can add the executable to your `$PATH` and rename it as `phpman`
+
+
+### Building from Source
+
+I used <a href="https://github.com/masnun/pharmaker">pharmaker</a> to build out the Phar. 
+
+
 
