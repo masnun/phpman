@@ -1,6 +1,6 @@
 # PHPMan
 
-PHPMan is a simple command line tool that uses Google's "Feeling Lucky" feature to quickly PHP related topics. 
+PHPMan is a simple command line tool that uses Google's "Feeling Lucky" feature to quickly take you to the most relevant page.
 
 ### How to Use? 
 
