@@ -6,7 +6,7 @@ PHPMan is a simple command line tool that uses Google's "Feeling Lucky" feature 
 
 * Download `phpman.phar` 
 * Make it executable - `chmod a+x phpman.phar`
-* Run it - `./phpman.phar array shift`
+* Run it - `./phpman.phar array shift` - it will take you to the most relevant page for "array shift" search
 * Optionally, you can add the executable to your `$PATH` and rename it as `phpman`
 
 
