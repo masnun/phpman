@@ -1,0 +1,27 @@
+{
+    "name": "masnun/phpman",
+    "version": "0.0.1",
+    "type": "library",
+    "description": "A command line tool for quickly navigating to php manual",
+    "keywords": ["php", "manual"],
+    "homepage": "https://github.com/masnun/phpman",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abu Ashraf Masnun",
+            "email": "masnun@transcendio.net",
+            "homepage": "http://masnun.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/masnun/phpman.git"
+        }
+    ],
+    "bin": ["bin/phpman"]
+}
