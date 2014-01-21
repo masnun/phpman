@@ -2,7 +2,14 @@
 
 PHPMan is a simple command line tool that uses Google's "Feeling Lucky" feature to quickly take you to the most relevant page.
 
-### How to Use? 
+### Installation
+
+#### Using Composer
+
+	composer global require masnun/phpman:dev-master 
+
+
+#### Manual download
 
 * Download `phpman.phar` 
 * Make it executable - `chmod a+x phpman.phar`
